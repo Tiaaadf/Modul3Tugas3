@@ -73,7 +73,6 @@ public class Main {
                     System.out.println("Pilihan tidak valid. Silakan coba lagi.");
             }
         }
-        System.out.println("halooo");
 
         scanner.close();
     }
